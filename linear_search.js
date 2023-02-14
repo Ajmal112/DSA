@@ -1,13 +1,14 @@
 
 /*
-Write code to print if n is a prime Number
+Try this if you are comfortable with linear search.
 
-for example if n = 11, then its divisible only by 1 and 11 
-(Hint: only n%1 == 0 and n%11==0,  ) no other number can divide 11
-
-but if n = 12 then n%1 ==0 and n%2==0, n%3 == 0, n%4 == 0, n%6==0 hence its not a prime number
-
-Your code should work for any value of n
+int a[] = [13, 11, 13,4, 10, 9, 1];
+int x[] = [11, 13, 4, 17];
+// Your program should print
+// 11 is found 1 time
+// 13 is found 2 times
+// 4 is found 1 time
+// 17 is NOT found
 */
 
 
